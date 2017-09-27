@@ -1,0 +1,72 @@
+body {
+	background-color: #99CCFF;
+	margin: 0;
+	padding: 0;
+	font-family: cursive;
+	padding: 40px;
+}
+
+#title {
+	width: 800px;
+	background-color: #FFFFFF;
+	height: 180px;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 2%;
+}
+
+h1 {
+	padding-top: 60px;
+	font-size: 50px;
+	color: #AAAAAA;
+}
+
+#second-part {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h3 {
+	text-decoration: underline;
+	font-style: italic;
+}
+
+img {
+	border: 3px solid white;
+}
+
+#biography {
+	width: 800px;
+	margin: 0 auto;
+	color: #444444;
+}
+
+#horizontal {
+	width: 300px;
+	color: white;
+	margin-left: 250px;
+}
+
+#cytat {
+	width: 800px;
+	margin: 0 auto;
+	font-style: italic;
+	color: #444444;
+	font-size: 12px;
+}
+
+#last-part {
+	width: 800px;
+	margin: 0 auto;
+	color: #660000;
+}
+
+#button {
+	width: 800px;
+	margin: 0 auto;
+}
+
+button {
+	width: 80px;
+}
